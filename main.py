@@ -8,8 +8,13 @@ def main():
     book_detail = soup.find("td", class_="bibliocol")
     book_title = book_detail.find("a", class_="title").text
     book_authors = book_detail.find("ul", class_="author resource_list").text
+    try:
+        book_publishers = book_detail.find("span", class_="publisher_name").text
+    except AttributeError:
+        book_publishers = "No information"
     print(book_title)
     print(book_authors)
+    print(book_publishers)
 
 if __name__ == "__main__":
     main()
