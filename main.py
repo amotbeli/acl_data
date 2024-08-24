@@ -7,7 +7,9 @@ def main():
 
     book_detail = soup.find("td", class_="bibliocol")
     book_title = book_detail.find("a", class_="title").text
+    book_authors = book_detail.find("ul", class_="author resource_list").text
     print(book_title)
+    print(book_authors)
 
 if __name__ == "__main__":
     main()
