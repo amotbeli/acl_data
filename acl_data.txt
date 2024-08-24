@@ -1,0 +1,1024 @@
+book number: 1
+            title: சங்க இலக்கியம் பஞ்சாங்கம், க.
+            authors: க.பஞ்சாங்கம்
+            publishers: No information
+
+book number: 2
+            title: அறிவியல் ஒன்பதாம் வகுப்பு முதல் பருவம் : தொகுதி 3
+            authors: தமிழ்நாடு (இந்தியா)  தமிழ்நாட்டுப் பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+            publishers: தமிழ்நாட்டுப் பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 3
+            title: அன்னை வாழ்க்கை அழகானது சேவியர்
+            authors: சேவியர்
+            publishers: அருவி வெளியீடு
+
+book number: 4
+            title: ஆதியில் பெண் இருந்தாள் தேர்வும் மறுகூறலும் மரிஜா ஸ்ரெஸ் ; தமிழில் எம். எஸ்
+            authors: Marija Sres
+            publishers: காலச்சுவடு பதிப்பகம்
+
+book number: 5
+            title: ஆயுளை விருத்தியாக்கும் சரிவிகித சத்தான உணவுகள் : தயாரிப்பு முறைகள்  ப்ரியாபாலு
+            authors: ப்ரியா பாலு
+            publishers: நற்பவி பிரசுரம்
+
+book number: 6
+            title: ஆரம்ப கட்ட முதலாளியமும் தமிழ்ச் சமூக மாற்றமும் ராஜ் கௌதமன்
+            authors: ராஜ்கௌதமன்
+            publishers: தமிழினி
+
+book number: 7
+            title: இங்கிலாந்து நாட்டுப்புறக் கதைகள் : பாகம் 2 எஸ். லீலா
+            authors: லீலா, எஸ்
+            publishers: குட்புக்ஸ் பப்ளிகேஷன்ஸ்
+
+book number: 8
+            title: அரசியலமைப்புச் சட்டம் - I பி.ஆர். ஜெயராஜன் பின்னணி, தத்துவம், அடிப்படை உரிமைகள் மற்றும் கடமைகள்
+            authors: ஜெயராஜன், பி.ஆர்
+            publishers: ஸ்ரீ பதி ராஜன் பதிப்பகம்
+
+book number: 9
+            title: அரசியலமைப்புச் சட்டம் - II பி.ஆர் .ஜெயராஜன் அரசியலமைப்பு அங்கங்களின் கட்டமைப்பு மற்றம் மத்திய - மாநில உறவுகள்
+            authors: ஜெயராஜன், பி.ஆர்
+            publishers: ஸ்ரீ பதி ராஜன் பதிப்பகம்
+
+book number: 10
+            title: உளவியல் ரீதியாக உருவாகும் உடல் நோய்கள் ஜே.எஸ். ஏப்ரஹாம்
+            authors: ஏப்ரகாம், ஜே. எஸ்
+            publishers: நர்மதா பதிப்பகம்
+
+book number: 11
+            title: ஐயனாரிதனார் அருளிய புறப்பொருள் வெண்பா மாலை புலியூர்க் கேசிகன்
+            authors: கேசிகன், புலியூர்
+            publishers: கைலாஷ் பப்ளிகேஷன்
+
+book number: 12
+            title: பொய்த்தேவும்  சுப்ரமணியம், க.நா.
+            authors: க.நா.சுப்ரமணியம்
+            publishers: காவ்யா
+
+book number: 13
+            title: கணக்கு  ஒன்பதாம் வகுப்பு
+            authors: தமிழ்நாடு (இந்தியா) பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+தமிழ்நாட்டுப் பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+            publishers: தமிழ்நாட்டுப் பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 14
+            title: கணக்கு  ஒன்பதாம் வகுப்பு : முதல் பருவம் : தொகுதி 2
+            authors: தமிழ்நாடு (இந்தியா) தமிழ்நாட்டுப் பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+            publishers: தமிழ்நாட்டுப் பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 15
+            title: கணக்கு  ஆறாம் வகுப்பு முதல் பருவம் தொகுதி 2
+            authors: தமிழ்நாட்டுப் பாடநூல் கழகம்
+            publishers: தமிழ்நாட்டுப் பாடநுால் கழகம்
+
+book number: 16
+            title: சங்க இலக்கிய மாண்பும் சங்கப் புலவர்களும் அப்பாதுரையார்,கா.
+            authors: கா.அப்பாதுரையார்
+            publishers: No information
+
+book number: 17
+            title: சமூக அறிவியல் 9 ஆம் வகுப்பு தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+            authors: தமிழ்நாடு (இந்தியா) பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 18
+            title: சாகித்திய அகாதெமி பரிசுபெற்ற மலையாள நாவல் தட்டகம் கோவிலன் ; தமிழாக்கம் நிர்மால்யா
+            authors: கோவிலன்
+            publishers: சாகித்திய அகாதெமி
+
+book number: 19
+            title: சித்த மருத்துவப் பெட்டகம் மீ. பழனியப்பன்
+            authors: பழனியப்பன், மீ
+            publishers: அறிவுப் பதிப்பகம்
+
+book number: 20
+            title: சிரிப்பு தரும் சிந்தனைகள் இரண்டாம் கலைவாணா்', " நகைச்சுவைத் தென்றல்"பொ. ம. ராசமணி
+            authors: ராமசாமி, பொ. ம
+            publishers: No information
+
+book number: 21
+            title: சுயமாக முன்னேறுவது எப்படி? பசுமைக்குமார்
+            authors: பசுமைக்குமார்
+            publishers: தாமரை பப்ளிகேஷன்ஸ்
+
+book number: 22
+            title: இயற்கை வேளாண்மையில் மாடியில் மரம் - காய்கறிச் சாகுபடி ஆர்.எஸ். நாராயணன்
+            authors: நாராயணன், ஆர்.எஸ்
+            publishers: தாமரை பப்ளிகேஷன்ஸ்
+
+book number: 23
+            title: இலக்கண உலகில் புதிய பார்வை : தொகுதி 2 பொற்கோ (பொன். கோதண்டராமன்)
+            authors: பொற்கோ (கோதண்டராமன், பொன்)
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 24
+            title: கட்டபொம்மு தி. நா. சுப்பிரமணியன்
+            authors: சுப்பிரமணியன், தி. நா
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 25
+            title: கொங்கு நாட்டு வரலாறு மயிலை சீனி வேங்கடசாமி
+            authors: மயிலை சீனி வேங்கடசாமி
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 26
+            title: கை வீசம்மா... கை வீசு பாலகுமாரன்
+            authors: பாலகுமாரன்
+            publishers: விசா பப்ளிகேஷன்ஸ்
+
+book number: 27
+            title: சம்பிரதாயங்கள் சரியா? மஞ்சை வசந்தன்
+            authors: வசந்தன், மஞ்சை
+            publishers: தாமரை பதிப்பகம்
+
+book number: 28
+            title: சர்க்கரை : நாவல் கு. சின்னப்ப பாரதி
+            authors: பாரதி, சின்னப்ப
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 29
+            title: புறநானூற்றில் குமார்,இரா.
+            authors: இரா.குமார்
+            publishers: No information
+
+book number: 30
+            title: Thirukkural = திருக்குறள் English Translation Rev. G.U. Pope
+            authors: Pope, G. U
+            publishers: ஆசியன் கல்வி பணிகள்
+
+book number: 31
+            title: சோழமண்டலக் கடற்கரையும் அதன் உள்நாடும்: பொருளாதார,சமூக, அரசியல், அமைப்பு (கி.பி.1500-1600) ஜெயசீல ஸ்டீபன் .எஸ்
+            authors: ஜெயசீல ஸ்டீபன். எஸ்
+ரகு அந்தோணி (Tamil Translator)
+            publishers: நியூ செஞ்சுரி புக்  ஹவுஸ் (பி) லிட்.,
+
+book number: 32
+            title: அறிமுகச் செய்திகள் ஆயிரம் / சா. அனந்தகுமார்
+            authors: அனந்தகுமார், சா
+            publishers: அறிவுப் பதிப்பகம் (பி) லிட்.,
+
+book number: 33
+            title: இந்துமதமும் தமிழரும்! அறிஞர் அண்ணா
+            authors: அண்ணாதுரை, C.N
+            publishers: மணிவாசகர் பதிப்பகம்
+
+book number: 34
+            title: கள்வனின் காதலி கல்கி
+            authors: கல்கி
+            publishers: வானதி பதிப்பகம்
+
+book number: 35
+            title: பச்சையப்பனிலிருந்து ஒரு தமிழ் வணக்கம் முத்துக்குமார், நா.
+            authors: நா.முத்துக்குமார்
+            publishers: மதி நிலையம்
+
+book number: 36
+            title: சக்தி ரோண்டா பைர்ன்; தமிழில் நாகலட்சுமி சண்முகம்
+            authors: பைர்ன், ரோண்டா
+Byrne, Rhonda
+நாகலட்சுமி சண்முகம்
+Byrne, Rhonda
+பைர்ன், ரோன்டா
+            publishers: மஞ்சுள் பப்ளிஷிங் ஹவுஸ்
+
+book number: 37
+            title: சங்கத்தமிழ் அகத்தியலிங்கம்,  ச.
+            authors: ச. அகத்தியலிங்கம்
+            publishers: உலகத் தமிழாராய்ச்சி நிறுவனம்
+
+book number: 38
+            title: நடைப்பயிற்சி பற்றிய சுவையான தகவல்கள் இரா. ரெங்கசாமி
+            authors: ரெங்கசாமி, இரா
+            publishers: மணிமேகலைப் பிரசுரம்
+
+book number: 39
+            title: நாட்டுப்புறக் கதைக் களஞ்சியம் முதன்மைப் பதிப்பாசிரியர் - பதிப்பாசிரியர் முனைவர் ஆறு. இராமநாதன்
+            authors: இராமநாதன், ஆறு
+            publishers: மெய்யப்பன் பதிப்பகம்
+
+book number: 40
+            title: நாட்டுப்புறக் கதைக் களஞ்சியம் தலைமைத் தொகுப்பாளர் கி. ராஜநாராயணன் ; தொகுப்பாளர்கள் சண்முகசுந்தரம், கழனியூரன், பாரததேவி
+            authors: ராஜநாராயணன், கி
+            publishers: சாகித்திய அகாதெமி
+
+book number: 41
+            title: சொல்லும் செயலும்  குட்டிக் கதைகள்
+            authors: கு. சின்னப்ப பாரதி
+            publishers: தாமரை பப்ளிகேஷன்ஸ்
+
+book number: 42
+            title: அன்னை : நோபல் பரிசு பெற்ற நாவல் கிரேசியா டெலடா ; தமிழாக்கம் தி. ஜானகிராமன் ; பதிப்பாசிரியர் புலவர் கோ. தேவராசன்
+            authors: ஜானகிராமன், தி
+            publishers: ஐந்திணைப் பதிப்பகம்
+
+book number: 43
+            title: உலகுக்கோர் ஐந்தொழுக்கம் : குயில் இதழில் வெளியான பாரதிதாசனின் தலையங்கக் கட்டுரைகள் பதிப்பாசிரியர் டாக்டர். ச.சு. இளங்கோ
+            authors: No information
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 44
+            title: உறுபசி ராமகிருஷ்ணன், எஸ்
+            authors: ராமகிருஷ்ணன், எஸ்
+            publishers: உயிர்மை பதிப்பகம்
+
+book number: 45
+            title: கருங்குயில் குன்றத்துக் கொலை டி. எஸ். துரைசாமி
+            authors: துரைசாமி, டி. எஸ்
+            publishers: தோழமை வெளியீடு
+
+book number: 46
+            title: காவல்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்
+            authors: கருணாநிதி, கலைஞர் மு
+            publishers: தமிழ்க்கனி பதிப்பகம்
+
+book number: 47
+            title: செவ்வியல் நோக்கில் செம்மொழி இலக்கியங்கள் : தொகுதி 2 குருமூர்த்தி,  இராம.
+            authors: இராம. குருமூர்த்தி
+            publishers: மெய்யப்பன் பதிப்பகம்
+
+book number: 48
+            title: சோமநாதர் வரலாற்றின் பல குரல்கள் ரொமிலா தாப்பர் ; தமிழில் கமலாலயன்
+            authors: ரொமிலா தாப்பர்
+கமலாலயன்
+            publishers: நியூ செஞ்சுரி புக்  ஹவுஸ் (பி) லிட்.,
+
+book number: 49
+            title: தமிழில் சோவியத் இலக்கியங்கள் பெ.கோவிந்தசாமி
+            authors: கோவிந்தசாமி, பெ
+            publishers: நியூ செஞ்சுரி  புக்  ஹவுஸ்  (பி ) லிட்
+
+book number: 50
+            title: தமிழ்  ஒன்பதாம் வகுப்பு
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: No information
+
+book number: 51
+            title: தெரியுமா? : அறிவியல் விளக்கங்களின் தொகுப்பு பொ. ஐங்கரநேசன்
+            authors: ஐங்கரநேசன், பொ
+            publishers: அரும்பு பதிப்பகம்
+
+book number: 52
+            title: நலமான தாய்மை டாக்டர் பா. சந்திரா
+            authors: சந்திரா, பா
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 53
+            title: நாட்டுப்புறக் கதைக் களஞ்சியம் : தஞ்சை மாவட்டம். தொகுதி 14 முதன்மைப் பதிப்பாசிரியர் ஆறு. இராமநாதன், பதிப்பாசிரியர் சி. சுந்தரேசன்
+            authors: இராமநாதன், ஆறு
+சுந்தரேசன், சி
+            publishers: மெய்யப்பன் பதிப்பகம்
+
+book number: 54
+            title: நீலரதி சாண்டில்யன்
+            authors: சாண்டில்யன்
+            publishers: பாரதி பதிப்பகம்
+
+book number: 55
+            title: நிலா சாட்சி சொல்லும் : சிறுவர்க்கான சிறுகதைகள் ஆசிரியர் தமிழிறைவன்
+            authors: தமிழிறைவன்
+            publishers: குமாரசாமி பதிப்பகம்
+
+book number: 56
+            title: மக்கள் கவிஞர் பட்டுக்கோட்டை கல்யாணசுந்தரம் பாடல்கள் தொகுப்பு பி. இ. பாலகிருஷ்ணன்
+            authors: பாலகிருஷ்ணன், பி. இ
+            publishers: நியூ செஞ்சுரி புக் ஹவுஸ்
+
+book number: 57
+            title: சங்க இலக்கிய மாண்பும் சங்கப் புலவர்களும் அப்பாதுரையார், கா.
+            authors: கா.அப்பாதுரையார்
+            publishers: No information
+
+book number: 58
+            title: ராகுல சாங்கிருத்தியாயனின் வால்காவிலிருந்து கங்கை வரை ராகுல சாங்கிருத்தியாயன் ; தமிழில் கண. முத்தையா
+            authors: முத்தையா, கண
+            publishers: தமிழ்ப் புத்தகாலயம்
+
+book number: 59
+            title: வலுப்பெற்று வரும் வளைக்கரங்கள் : காந்திகிராம அறக்கட்டளையின் செயல் அனுபவங்கள் இரேவதி ராஜபெருமாள்
+            authors: இரேவதி ராஜபெருமாள்
+            publishers: பாவை பப்ளிகேஷன்ஸ்
+
+book number: 60
+            title: பிள்ளை - யார்? : ஆதாரங்களுடன் தொகுக்கப்பட்ட நூல்
+            authors: No information
+            publishers: திராவிடர் கழக வெளியீடு
+
+book number: 61
+            title: புராணம் தந்தை பெரியார்
+            authors: ராமசாமி, ஈ. வே, தந்தை பெரியார்
+            publishers: திராவிடர் கழக வெளியீடு
+
+book number: 62
+            title: முதல்வர் அண்ணாவின் சொற்பொழிவுகள் அறிஞர் அண்ணா
+            authors: அண்ணாதுரை, C. N
+            publishers: சீதை பதிப்பகம்
+
+book number: 63
+            title: மூன்றாம் உலகப் போர் வைரமுத்து
+            authors: வைரமுத்து
+            publishers: சூர்யா லிட்ரேச்சர்
+
+book number: 64
+            title: அலை ஓசை கல்கி
+            authors: கல்கி
+            publishers: தாமரை பதிப்பகம்
+
+book number: 65
+            title: இந்திய சுதந்திரப் போராட்ட வீரர்கள் 50 பேர் கமலா கந்தசாமி
+            authors: கமலா கந்தசாமி
+            publishers: புதிய புத்தக உலகம்
+
+book number: 66
+            title: ஒற்றை வைக்கோல் புரட்சி : இயற்கை வேளாண்மை மசானபு ஃபுகோகா
+            authors: மசானபு ஃபுகோகா
+            publishers: எதிர் வெளியீடு
+
+book number: 67
+            title: கள்வனின் காதலி கல்கி
+            authors: கல்கி
+            publishers: ஜெகநாதன் புத்தக நிலையம்
+
+book number: 68
+            title: நாட்டுப்புறக் கதைக் களஞ்சியம் முதன்மைப் பதிப்பாசிரியர் - பதிப்பாசிரியர் முனைவர் ஆறு. இராமநாதன்
+            authors: இராமநாதன், ஆறு
+            publishers: மெய்யப்பன் பதிப்பகம்
+
+book number: 69
+            title: அன்னை தெரேசா ஜே.வின்சென்ட்
+            authors: வின்சென்ட், ஜே
+            publishers: குமரன் பதிப்பகம்
+
+book number: 70
+            title: நாட்டுப்புறக் கதைக் களஞ்சியம் முதன்மைப் பதிப்பாசிரியர் - பதிப்பாசிரியர் முனைவர் ஆறு. இராமநாதன்
+            authors: இராமநாதன், ஆறு
+            publishers: மெய்யப்பன் பதிப்பகம்
+
+book number: 71
+            title: வாழ்விக்க வந்த மகான்கள் தா. ஸ்ரீனிவாசன்
+            authors: ஸ்ரீனிவாசன், தா
+            publishers: தாமரை பப்ளிகேஷன்ஸ்
+
+book number: 72
+            title: மேயோ கிளினிக்  உடல்நலக் கையேடு   மேயோ கிளினிக்
+            authors: No information
+            publishers: அடையாளம்
+
+book number: 73
+            title: பூணையைப் போல அலையும் வெளிச்சம்   குட்டி ரேவதி
+            authors: குட்டி ரேவதி
+?????? ?????
+            publishers: No information
+
+book number: 74
+            title: பூணையைப் போல அலையும் வெளிச்சம்  குட்டி ரேவதி
+            authors: குட்டி ரேவதி
+            publishers: No information
+
+book number: 75
+            title: பாட்டி சொன்ன பண்பாட்டு கதைகள் 10  பட்டத்தி மைந்தன்
+            authors: No information
+            publishers: No information
+
+book number: 76
+            title: பூகம்பம் ஓர் ஆய்வு  நாஞ்சில் ஸ்ரீ விஷ்ணு
+            authors: No information
+            publishers: தமிழ்ப் பிரசுரம்
+
+book number: 77
+            title: மானுடம் வெல்லும்  பிரபஞ்சன்
+            authors: பிரபஞ்சன்
+            publishers: கவிதா பப்ளிகேஷன்
+
+book number: 78
+            title: மாவீரன் அலெக்சாண்டர் கோடீஸ்வரன்
+            authors: கோடீஸ்வரன்
+            publishers: சாந்தி பப்ளிகேஷன்
+
+book number: 79
+            title: புறநானூறு  மாணிக்கவாசகன், ஞா
+            authors: ஞா.மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 80
+            title: புறநானூறு மாணிக்கவாசகன், ஞா
+            authors: ஞா. மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 81
+            title: புறநானூறு மாணிக்கவாசகன், ஞா.
+            authors: ஞா. மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 82
+            title: புறநானூறு மாணிக்கவாசகன், ஞா.
+            authors: ஞா. மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 83
+            title: பரிபாடல் மாணிக்கவாசகன், ஞா.
+            authors: ஞா.மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 84
+            title: பரிபாடல் மாணிக்கவாசகன், ஞா
+            authors: ஞா.மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 85
+            title: பரிபாடல் மாணிக்கவாசகன், ஞா.
+            authors: ஞா.மாணிக்கவாசகன்
+            publishers: No information
+
+book number: 86
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 87
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 88
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 89
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 90
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 91
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 92
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 93
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 94
+            title: மௌனப் புயல்  சிவபாரதி
+            authors: சிவபாரதி
+            publishers: No information
+
+book number: 95
+            title: மௌனப் புயல் சிவபாரதி
+            authors: சிவபாரதி
+            publishers: No information
+
+book number: 96
+            title: பழங்காலத் தமிழர் வாணிகம் வேங்கடசாமி, சீனி
+            authors: சீனி.வேங்கடசாமி
+            publishers: No information
+
+book number: 97
+            title: புறநானூறு மாணிக்கம், அ.
+            authors: அ. மாணிக்கம்
+            publishers: No information
+
+book number: 98
+            title: புறநானூறு மாணிக்கம், அ.
+            authors: அ. மாணிக்கம்
+            publishers: No information
+
+book number: 99
+            title: புறநானூறு மாணிக்கம், அ.
+            authors: அ. மாணிக்கம்
+            publishers: No information
+
+book number: 100
+            title: புறநானூறு மாணிக்கம், அ.
+            authors: அ. மாணிக்கம்
+            publishers: No information
+
+book number: 101
+            title: பதிற்றுப்பத்து மாணிக்கம்,அ
+            authors: அ.மாணிக்கம்
+            publishers: No information
+
+book number: 102
+            title: பதிற்றுப்பத்து மாணிக்கம்,அ
+            authors: அ.மாணிக்கம்
+            publishers: No information
+
+book number: 103
+            title: பதிற்றுப்பத்து மாணிக்கம், அ.
+            authors: அ.மாணிக்கம்
+            publishers: No information
+
+book number: 104
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 105
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 106
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 107
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 108
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன், கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 109
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 110
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 111
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 112
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 113
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 114
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன், கா.
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 115
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 116
+            title: பொன்னியின் செல்வன் பாகம் ஓன்று  கல்கி
+            authors: ?????
+?????
+            publishers: கல்கி
+
+book number: 117
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 118
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 119
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 120
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 121
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 122
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 123
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 124
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 125
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+?????
+            publishers: No information
+
+book number: 126
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 127
+            title: பொன்னியின் செல்வன் கல்கி
+            authors: கல்கி
+            publishers: No information
+
+book number: 128
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 129
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 130
+            title: கா.கோவிந்தன் இலக்கியங்கள்  கோவிந்தன்,கா
+            authors: கா.கோவிந்தன்
+            publishers: No information
+
+book number: 131
+            title: மனதுக்குத்தான் கற்பு இந்திரா சௌந்தர்ராஜன்
+            authors: இந்திரா சௌந்தர்ராஜன்
+            publishers: No information
+
+book number: 132
+            title: மாஜி கடவுள்கள் அண்ணா
+            authors: அண்ணா
+            publishers: No information
+
+book number: 133
+            title: தம்பிக்கு அண்ணாவின் கடிதங்கள் பேறிஞர் சி.என். அண்ணாதுரை
+            authors: "?????????, ??. ???."
+???????? ??????? ??. ???. ?????????
+            publishers: 2008
+
+book number: 134
+            title: பஞ்ச தந்திரக்  கதைகள்  முருகேசன்
+            authors: முருகேசன்
+            publishers: Unique Media Integrators
+
+book number: 135
+            title: பனை மரமே ! பனை மரமே ! சிவசுப்பிரமணியன்,ஆ.
+            authors: ஆ.சிவசுப்பிரமணியன்
+            publishers: No information
+
+book number: 136
+            title: பதிற்றுப்பத்து ஆலிஸ், அ.
+            authors: அ. ஆலிஸ்
+            publishers: No information
+
+book number: 137
+            title: பதிற்றுப்பத்து  ஆலிஸ், அ.
+            authors: அ.ஆலிஸ்
+            publishers: No information
+
+book number: 138
+            title: பதிற்றுப்பத்து ஆலிஸ், அ.
+            authors: அ.ஆலிஸ்
+            publishers: No information
+
+book number: 139
+            title: பதிற்றுப்பத்து ஆலிஸ், அ.
+            authors: அ.ஆலிஸ்
+            publishers: No information
+
+book number: 140
+            title: போரும் வாழ்வும் பகுதி-1 டால்ஸ்டாய், லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 141
+            title: போரும் வாழ்வும் பகுதி-2 டி.எஸ்.சொக்கலிங்கம் (தமிழில்) டால்ஸ்டாய்,லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 142
+            title: போரும் வாழ்வும் பகுதி-3 டால்ஸ்டாய்,லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 143
+            title: உடையார்  பாகம் 2  பாலகுமாரன்  உடையார்  பாகம் 2  பாலகுமாரன்
+            authors: ??????????
+            publishers: விசா பப்ளிகேஷன்ஸ்
+
+book number: 144
+            title: உடையார் பாகம் 3   பாலகுமாரன்
+            authors: ??????????
+            publishers: விசா publication
+
+book number: 145
+            title: உடையார் பாகம் 4   பாலகுமாரன்
+            authors: ??????????
+            publishers: விசா publication
+
+book number: 146
+            title: பாபநாசம் சிவன்   வீயெஸ்வி
+            authors: ????????
+????????
+            publishers: ?????? ????????
+
+book number: 147
+            title: பாண்டியர்  வரலாறு   இராசசேகர தங்கமணி , ம பாண்டியர்  வரலாறு   இராசசேகர தங்கமணி , ம
+            authors: ம. இராசசேகர தங்கமணி
+            publishers: No information
+
+book number: 148
+            title: டாக்டர் . பாபா சாஹேப் :அம்பேத்கர்   பேச்சும் எழுத்தும்  தொகுதி 21
+            authors: ??????????
+?????????? ??????????
+            publishers: Ambedkar Foundation
+
+book number: 149
+            title: பண்டைக்கால இந்தியா ராமகிருஷ்ணன், எஸ்.
+            authors: எஸ். ராமகிருஷ்ணன்
+            publishers: No information
+
+book number: 150
+            title: போரும் வாழ்வும் சொக்கலிங்கம், டி.எஸ்
+            authors: டி.எஸ் சொக்கலிங்கம்
+            publishers: No information
+
+book number: 151
+            title: போரும் வாழ்வும் பகுதி-1 டால்ஸ்டாய், லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 152
+            title: போரும் வாழ்வும் பகுதி-2 டி.எஸ்.சொக்கலிங்கம் (தமிழில்) டால்ஸ்டாய், லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 153
+            title: போரும் வாழ்வும் பகுதி-2 டி.எஸ்.சொக்கலிங்கம் (தமிழில்) டால்ஸ்டாய்,லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 154
+            title: போரும் வாழ்வும் பகுதி-2 டி.எஸ்.சொக்கலிங்கம் (தமிழில்) டால்ஸ்டாய்,லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 155
+            title: போரும் வாழ்வும் பகுதி-2 டி.எஸ்.சொக்கலிங்கம் (தமிழில்) டால்ஸ்டாய்,லியோ
+            authors: லியோ டால்ஸ்டாய்
+            publishers: No information
+
+book number: 156
+            title: ராஸ் லீலா சாரு நிவேதிதா
+            authors: சாரு நிவேதிதா
+            publishers: No information
+
+book number: 157
+            title: ராஸ லீலா சாரு நிவேதிதா
+            authors: சாரு நிவேதிதா
+            publishers: No information
+
+book number: 158
+            title: ராஸ லீலா சாரு நிவேதிதா
+            authors: சாரு நிவேதிதா
+            publishers: No information
+
+book number: 159
+            title: ராஸ லீலா  சாரு நிவேதிதா
+            authors: சாரு நிவேதிதா
+            publishers: கிழக்கு பதிப்பகம்
+
+book number: 160
+            title: மணற்கேணி யுவன் சந்திரசேகர்
+            authors: யுவன் சந்திரசேகர்
+            publishers: No information
+
+book number: 161
+            title: மணற்கேணி யுவன் சந்திரசேகர்
+            authors: யுவன் சந்திரசேகர்
+            publishers: No information
+
+book number: 162
+            title: Smog check science, federalism and the politics of clean air Doughlas S. Eisinger
+            authors: Eisinger, Douglas S
+            publishers: RFF Press
+
+book number: 163
+            title: Tamil & English Term III Vol 1 content creation state council of educational research and training
+            authors: Tamil Nadu (India).  State Council of Educational Research & Training
+            publishers: Tamil Nadu textbook and educational services corporation
+
+book number: 164
+            title: கணக்கு  அறிவியல் சமூகஅறிவியல் மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்  மூன்றாம் வகுப்பு  பருவம் - 2- தொகுதி -2
+            authors: தமிழ்நாடு ( இந்தியா) மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 165
+            title: கணக்கு  7ம் வகுப்பு ; பருவம் III ;தொகுதி - 2 Content creation state council of educational research and training
+            authors: Tamil Nadu (India).  State Council of Educational Research & Training
+            publishers: Tamil Nadu textbook and educational services corporation
+
+book number: 166
+            title: கணக்கு  அறிவியல்  சமூகஅறிவியல் மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்  2    மூன்றாம் வகுப்பு  பருவம் -II தொகுதி -2
+            authors: தமிழ்நாடு [ இந்தியா] மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 167
+            title: புள்ளியியல்  மேல்நிலை முதலாமாண்டு மாநில கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் - SCERT
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: மாநில கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் - SCERT
+
+book number: 168
+            title: கணக்கு அறிவியல் சமூகஅறிவியல் மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்  2 மூன்றாம் வகுப்பு  பருவம் - 2 தொகுதி -2
+            authors: தமிழ்நாடு (இந்தியா) மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 169
+            title: தமிழ் English  நான்காம் வகுப்பு ; மூன்றாம் பருவம்; தொகுதி-I
+            authors: Tamil Nadu (India).  State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 170
+            title: கணக்கு -மூன்றாம் வகுப்பு  பருவம் - 2 மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்  2
+            authors: மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 171
+            title: கணக்கு -மூன்றாம் வகுப்பு  பருவம் - 2 மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்  2
+            authors: மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 172
+            title: கணக்கு -மூன்றாம் வகுப்பு  பருவம் - 2 மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            authors: மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 173
+            title: கணக்கு -மூன்றாம் வகுப்பு  பருவம் - 2 மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்  2
+            authors: மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+மாநில  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல்  பணிகள்  கழகம்
+
+book number: 174
+            title: கணக்கு மூன்றாம் வகுப்பு  - பருவம் 2 மாநிலக்  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயற்சி  நிறுவனம்  2
+            authors: மாநிலக்  கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல் பணிகள்  கழகம்
+
+book number: 175
+            title: கணிதவியல் மேல்நிலை - இரண்டாம் ஆண்டு தொகுதி - II தமிழ்நாட்டுப் பாடநூல் கழகம்
+            authors: தமிழ்நாட்டுப் பாடநூல் கழகம்
+            publishers: தமிழ்நாட்டுப் பாடநூல் கழகம்
+
+book number: 176
+            title: கணினி அறிவியல் மேல்நிலை முதலாம் ஆண்டு மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் - SCERT
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: SCERT
+
+book number: 177
+            title: கணக்குப்பதிவியல் மேல்நிலை முதலாம் ஆண்டு மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் - SCERT
+            authors: Tamil Nadu (India).  State Council of Educational Research & Training
+            publishers: மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் - SCERT
+
+book number: 178
+            title: தமிழ்  English  உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல்  ஆராய்ச்சி  மற்றும்  பயிற்சி  நிறுவனம்   மூன்றாம் வகுப்பு   : பருவம் - II  : தொகுதி -1
+            authors: தமிழ்நாடு ( இந்தியா) மாநிலக் கல்வியியல்  ஆராய்ச்சி  &  பயிற்சி  நிறுவனம்
+            publishers: தமிழ்நாடு  பாடநூல்  மற்றும்  கல்வியியல் பணிகள்  கழகம்
+
+book number: 179
+            title: விலங்கியல்: மேல்நிலை முதலாம் ஆண்டு SCERT
+            authors: SCERT
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 180
+            title: அறவியலும் இந்தியப் பண்பாடும் மேல்நிலை முதலாம் ஆண்டு  மேல்நிலை முதலாம் ஆண்டு
+            authors: Tamil Nadu (India) State Council of Educational Research & Training
+            publishers: Tamil Nadu Textbook And Educational Services Corporation
+
+book number: 181
+            title: பொதுத் தமிழ்: மேல்நிலை முதலாம் ஆண்டு தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+            authors: SCERT
+            publishers: Tamil Nadu Textbook and Educational Services Corporation
+
+book number: 182
+            title: அறிவியல் சமூக அறிவியல் ஆறாம் வகுப்பு ; மூன்றாம் பருவம் ; தொகுதி 3 பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 183
+            title: மேல்நிலை முதலாம் ஆண்டு  பொருளியல்
+            authors: Tamil Nadu (India) . State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 184
+            title: வணிகக் கணிதம் மற்றும் புள்ளியியல்
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: Tamil Nadu Textbook and Educational Services Corporation
+
+book number: 185
+            title: தமிழ்  English முதல் வகுப்பு  பருவம் -3 தொகுதி -1
+            authors: SCERT
+            publishers: தமிழ்நாடு பாடநூல் மற்றும்  கல்வியியல் பணிகள் கழகம்
+
+book number: 186
+            title: மேல்நிலை முதலாம் ஆண்டு வணிகவியல் State Council of Educational Research and Training
+            authors: Tamil Nadu (India) .State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 187
+            title: அறிவியல்  10  பள்ளிக் கல்வித்துறை
+            authors: பள்ளிக் கல்வித்துறை தமிழ்நாடு அரசு
+தமிழ்நாடு அரசு
+பள்ளிக் கல்வித்துறை
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 188
+            title: புள்ளியியல் மேல்நிலை முதலாம் ஆண்டு SCERT Vol.1
+            authors: SCERT
+            publishers: SCERT
+
+book number: 189
+            title: அறிவியல்  பத்தாம் வகுப்பு Tamil Nadu (India). State Council of Educational Research & Training
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+பள்ளிக் கல்வித்துறை, தமிழ்நாடு அரசு
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 190
+            title: கணக்கு  பத்தாம் வகுப்பு Tamil Nadu (India). State Council of Educational Research & Training
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+பள்ளிக் கல்வித்துறை, தமிழ்நாடு அரசு
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 191
+            title: சமூக அறிவியல்  பத்தாம் வகுப்பு Tamil Nadu (India). State Council of Educational Research & Training
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+பள்ளிக் கல்வித்துறை, தமிழ்நாடு அரசு
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 192
+            title: தமிழ் English முதல் வகுப்பு : மூன்றாம் பருவம் தொகுதி 1  மாநிலக் கல்வியியல் மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும்  கல்வியியல் பணிகள் கழகம்
+
+book number: 193
+            title: கணக்கு சூழ்நிலையியல்  இரண்டாம் வகுப்பு; மூன்றாம் பருவம் ; தொகுதி-2 பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India). State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 194
+            title: கணக்கு சூழ்நிலையியல்  இரண்டாம் வகுப்பு; மூன்றாம் பருவம் ; தொகுதி-2 பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India).  State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 195
+            title: புவியியல் மேல்நிலை இரண்டாம் ஆண்டு  பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India) State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 196
+            title: சிறப்புத் தமிழ் மேல்நிலை முதலாம் ஆண்டு SCERT
+            authors: Tamil Nadu (India) State Council of Educational Research & Training
+State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 197
+            title: கணக்கு அறிவியல் சமூக அறிவியல் நான்காம்  வகுப்பு ; பருவம்- iii; தொகுதி-2 பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India).  State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 198
+            title: தமிழ் பத்தாம் வகுப்பு  பாடநூல் உருவாக்கமும் தொகுப்பும் மாநில கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India) State Council of Educational Research & Training
+            publishers: தமிழ்நாடு  பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 199
+            title: தமிழ் English ஏழாம் வகுப்பு இரண்டாம் பருவம்  தொகுதி-1 பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக்  கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India) State Council of Educational Research & Training
+பாடநூல் உருவாக்கமும் தொகுப்பும் மாநிலக்  கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            publishers: தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம்
+
+book number: 200
+            title: தமிழ் English ஆறாம் வகுப்பு : மூன்றாம் பருவம்: தொகுதி 1  மாநிலக் கல்வியியல் ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம்
+            authors: Tamil Nadu (India) State Council of Educational Research & Training
+            publishers: தமிழ்நாடு பாடநூல் மற்றும்  கல்வியியல் பணிகள் கழகம்
+
