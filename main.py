@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import time
 
 def main():
     try:
@@ -11,7 +12,7 @@ def main():
         acl_data = []
         existing_count = 0
 
-    print("Entries done (out of 15844):", existing_count)
+    print("Entries done (out of 15845):", existing_count)
     offset = int(input("Enter offset: "))
     count = int(input("Enter count: "))
 
@@ -22,6 +23,7 @@ def main():
 
     books = soup.find_all("td", class_="bibliocol")
     for book in books:
+        time.sleep(2)
         book_id += 1
         book_href = book.find("a", class_="title").get("href")
         book_url = "http://118.185.210.241:8001"+book_href
@@ -85,9 +87,9 @@ def main():
         acl_data.append(book_data)
         count -= 1
         print(f"Entries left in this iteration: {count}")
-    with open("acl_data.json", "w", encoding="utf8") as file:
-        #ensure_ascii parameter is kept False to make the JSON file readable for Tamil
-        json.dump(acl_data, file, ensure_ascii=False, indent=4)
+        with open("acl_data.json", "w", encoding="utf8") as file:
+            #ensure_ascii parameter is kept False to make the JSON file readable for Tamil
+            json.dump(acl_data, file, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     main()
